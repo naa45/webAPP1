@@ -1,0 +1,15 @@
+body{
+	color:white;
+	background-color:lightgray;
+}
+
+.nav ul{
+	
+	background-color:white;
+}
+.nav ul li{
+	display:inline-block;
+	list-style:none;
+	margin-left:80%;
+	
+}
